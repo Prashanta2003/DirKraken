@@ -23,14 +23,15 @@ Tools: nmap, nikto, metasploit-framework
 Installation
 
 Clone the Repository:
+```
 git clone https://github.com/yourusername/DirKraken.git
 cd DirKraken
-
+```
 
 Install Python Dependencies:
+```
 pip3 install python-nmap
-
-
+```
 Install System Tools:
 sudo apt update
 sudo apt install nmap nikto metasploit-framework
