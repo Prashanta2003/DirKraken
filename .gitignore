@@ -1,0 +1,7 @@
+Python
+
+pycache/ *.pyc *.pyo *.pyd
+
+Reports
+
+reports/*
